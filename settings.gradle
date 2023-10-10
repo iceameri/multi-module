@@ -1,0 +1,9 @@
+rootProject.name = 'multi-module'
+include 'module-serverA'
+include 'module-serverB'
+
+include 'module-auth'
+include 'module-service'
+
+include 'module-core'
+
